@@ -1,4 +1,4 @@
-- 👋 Hi, We are @LawnOfTheDead
+- 👋 Hi, We are @Lawn Of The Dead/Severed Hand Studios/Sewer Gator Studios
 - 👀 We're interested in Coding Websites And Games And Gaming
 - 🌱 We're currently learnt HTML5 and are learning Python/GML
 - 💞️ We're looking to collaborate on lawnofthedead.co.uk/madskunk.co.uk/lotd/ and our Lawn Of The Dead game
