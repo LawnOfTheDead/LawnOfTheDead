@@ -1,5 +1,5 @@
-- 👋 Hi, We are @Lawn Of The Dead/Severed Hand Studios/Sewer Gator Studios
-- 👀 We're interested in Coding Websites And Games And Gaming
-- 🌱 We're currently learnt HTML5 and are learning Python/GML
-- 💞️ We're making lawnofthedead.co.uk/madskunk.co.uk/lotd/ and Lawn Of The Dead the game on gx.games
-- 📫 How to reach me Email worldwarriorlotd@gmail.com or tascgaminglotd@gmail.com (both active now) for help or advice
+- 👋 Hi, We are @Lawn Of The Dead Studios
+- 👀 We're interested in Coding Websites And Games And Gaming (Especialy Halo, Enlisted, Minecraft And Sea Of Thieves!)
+- 🌱 We're currently learnt HTML5 and are learning Python/Java Script/GML
+- 💞️ We're making lawnofthedead.co.uk madskunk.co.uk/lotd/ and Lawn Of The Dead the game on gx.games
+- 📫 How to reach me, Email worldwarriorlotd@gmail.com or tascgaminglotd@gmail.com (both active now) for help or advice
