@@ -2,4 +2,4 @@
 - 👀 We're interested in Coding Websites And Games And Gaming (Especialy Halo, Enlisted, Minecraft And Sea Of Thieves!)
 - 🌱 We're currently learnt HTML5 and are learning Python/Java Script/GML
 - 💞️ We're making lawnofthedead.co.uk madskunk.co.uk/lotd/ and Lawn Of The Dead the game on gx.games
-- 📫 How to reach me, Email worldwarriorlotd@gmail.com or tascgaminglotd@gmail.com (both active now) for help or advice
+- 📫 How to reach me, Email bucketswarrior@gmail.com for help or advice
